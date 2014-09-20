@@ -1,4 +1,7 @@
 sfd-test
 ========
 
-Sample project to teach open source collaboration
+sample of how to collaborate an open source
+
+
+follow this routine 
